@@ -1,0 +1,38 @@
+[
+    {
+        "Nome do Filme": "Episode IV - A New Hope",
+        "Ano de Lançamento": "1977"
+    },
+    {
+        "Nome do Filme": "Episode V - The Empire Strikes Back",
+        "Ano de Lançamento": "1980"
+    },
+    {
+        "Nome do Filme": "Episode VI - Return of The Jedi",
+        "Ano de Lançamento": "1983"
+    },
+    {
+        "Nome do Filme": "Episode I - The Phantom Menace",
+        "Ano de Lançamento": "1999"
+    },
+    {
+        "Nome do Filme": "Episode II - Attack of The Clones",
+        "Ano de Lançamento": "2002"
+    },
+    {
+        "Nome do Filme": "Episode III - Revenge of The Sith",
+        "Ano de Lançamento": "2005"
+    },
+    {
+        "Nome do Filme": "Episode VII - The Force Awakens",
+        "Ano de Lançamento": "2015"
+    },
+    {
+        "Nome do Filme": "Episode VIII - A New Hope",
+        "Ano de Lançamento": "2017"
+    },
+    {
+        "Nome do Filme": "Episode IX - A New Hope",
+        "Ano de Lançamento": "2019"
+    }
+]
