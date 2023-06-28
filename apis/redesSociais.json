@@ -1,0 +1,34 @@
+[
+    {
+        "Nome": "Facebook",
+        "Site": "https://www.facebook.com"
+    },
+    {
+        "Nome": "Twitter",
+        "Site": "https://twitter.com/"
+    },
+    {
+        "Nome": "Instagram",
+        "Site": "https://www.instagram.com"
+    },
+    {
+        "Nome": "Skoob",
+        "Site": "https://www.skoob.com.br"
+    },
+    {
+        "Nome": "LinkedIn",
+        "Site": "https://www.linkedin.com/"
+    },
+    {
+        "Nome": "Pinterest",
+        "Site": "https://br.pinterest.com"
+    },
+    {
+        "Nome": "WhatsApp",
+        "Site": "https://web.whatsapp.com"
+    },
+    {
+        "Nome": "TikTok",
+        "Site": "https://www.tiktok.com/pt-BR/"
+    }
+]
